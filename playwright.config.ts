@@ -18,7 +18,7 @@ export default defineConfig({
   use: {
     baseURL: `https://the-internet.herokuapp.com`,
     trace: 'on-first-retry',
-    headless: false
+    headless: true
   },
 
   /* Configure projects for major browsers */
