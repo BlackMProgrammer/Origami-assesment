@@ -17,3 +17,5 @@ This is an assessment made by Cristhian De Castro, for the Company Origamy Risk.
 This project contains multiple files between them a Fixture folder, Tests folder and page objects all separated and properly organized in their folders.
 
 As especified no tests have relationship between them and up to this momment all of them should be good to show unless the page does not properly load.
+# Origami-assesment
+This is an assessment made by Cristhian De Castro, for the Company Origamy Risk
